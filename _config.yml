@@ -2,7 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 
-title: Bay Jekyll Theme
+title: Feng Shao 邵锋
 description: Bay is a minimal Jekyll Theme.
 baseurl: "/bay"
 url: "https://eliottvincent.github.io"
@@ -13,39 +13,18 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: About
+    - name: Research
+    - name: Talks
+    - name: CV
 
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
-
+      value: fshao@stu.pku.edu.cn
+  
 # Build settings
 markdown: kramdown
 sass:
